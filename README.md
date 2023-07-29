@@ -1,3 +1,2 @@
-# ibmpractice
-this repository is created for practicing lectures at Coursea with IBM
-# Week 1
+# About Me
+I am Debby Wu, a Portfolio Manager working in Singapore, pursuing 
