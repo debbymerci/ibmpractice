@@ -1,4 +1,4 @@
 # About Me
-I am Debby Wu, a Portfolio Manager working in Singapore, pursuing 
+Hi there, I am Debby Wu, a Portfolio Manager working in Singapore.
 
-Portfolio Manager with 7 + years of asset management, product development, and corporate banking from Durham University, U.K.
+I am a portfolio manager with 7 + years of asset management, product development, and corporate banking from Durham University, U.K.
